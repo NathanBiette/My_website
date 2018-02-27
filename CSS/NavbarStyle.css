@@ -1,3 +1,8 @@
 nav {
 	background-color: #e3f2fd;
 }
+
+#navbarNavAltMarkup .nav-link {
+	padding-right: 3.5rem;
+	padding-left: 3.5rem;
+}
