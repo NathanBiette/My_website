@@ -1,7 +1,8 @@
 .my-media {
 	padding-top: 2.5rem;
-	padding-bottom: 2.5rem;
+	/*padding-bottom: 2.5rem;*/
 	text-align: center;
+	width: 100%;
 }
 
 .project-title {
@@ -46,4 +47,14 @@
 .project-body h5{
 	padding-top: 1rem;
 	padding-bottom: 1rem;
+}
+
+.legend{
+	width: 100%;
+}
+
+.legend p{
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 2.5rem
 }
